@@ -183,7 +183,7 @@ input[type="email"],input[type="text"],input[type="phone"],input[type = "message
   border-radius: 7px;
   padding-left: 10px;
   background-color: transparent;
-  color: antiquewhite;
+  color: rgb(5, 5, 5);
 }
 
 .dws-submit {
