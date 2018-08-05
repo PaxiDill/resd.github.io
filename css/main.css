@@ -181,7 +181,7 @@ input[type="email"],input[type="text"],input[type="phone"],input[type = "message
   height: 50px;
   font-size: 18px;
   border-radius: 7px;
-  padding-left: 10px;
+  padding-left: 20px;
   background-color: transparent;
   color: rgb(5, 5, 5);
 }
@@ -192,6 +192,12 @@ input[type="email"],input[type="text"],input[type="phone"],input[type = "message
     border:none;
     cursor: pointer;
     background-color:  rgb(115, 115, 119);
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.dws-input {
+    padding: 10px;
 }
 
 .zog3 {
@@ -203,12 +209,6 @@ input[type="email"],input[type="text"],input[type="phone"],input[type = "message
     color: black; 
 }
 
-#zaq {
-
-}
-#qaz {
-
-}
 
 .zxc {
     font-size: 16px;
@@ -216,7 +216,8 @@ input[type="email"],input[type="text"],input[type="phone"],input[type = "message
 
 form{
     float: right;
-    padding-top: 150px;
+    margin-left: 100px;
+    padding-top: 170px;
 }
 
 .zog4 {
@@ -238,6 +239,7 @@ placeholder {
 
 #foo {
     background-color: rgb(19, 17, 17);
+    padding-top: 50px;
 }
 
 .wh {
